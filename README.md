@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rediet 👋
 
-<!--
-**Redietkebede/Redietkebede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full‑stack Developer | TypeScript | React | Node.js**  
+I build modern web apps and AI‑powered platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- TypeScript, JavaScript, Tailwind  
+- React, Node.js, Next.js  
+- PostgreSQL, MongoDB  
+
+---
+
+## 📌 Featured Projects
+- **AI Powered Exam Platform** – Short summary. [Repo](https://github.com/Redietkebede/AI_Powered_Exam_Platform)
+- **Gym Booking System** – Short summary. [Repo](https://github.com/Redietkebede/gym_booking_system)
+
+---
