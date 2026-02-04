@@ -1,19 +1,25 @@
 # Hi, I'm Rediet 👋
 
-**Full‑stack Developer | TypeScript | React | Node.js**  
-I build modern web apps and AI‑powered platforms.
+**SWE | Web Dev + AI Integration**  
+I’m an enthusiastic and passionate developer with solid, hands‑on experience designing and building modern web applications and AI‑powered products. I have a deep interest in creating scalable, maintainable web systems and bringing real‑world AI integrations into user‑focused experiences.
 
 ---
 
-## 🚀 Skills
-- TypeScript, JavaScript, Tailwind  
-- React, Node.js, Next.js  
-- PostgreSQL, MongoDB  
+## ⚙️ Tech Stack
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:** Supabase, PostgreSQL  
+- **Platforms/Tools:** Vercel, OpenRouter  
 
 ---
 
-## 📌 Featured Projects
-- **AI Powered Exam Platform** – Short summary. [Repo](https://github.com/Redietkebede/AI_Powered_Exam_Platform)
-- **Gym Booking System** – Short summary. [Repo](https://github.com/Redietkebede/gym_booking_system)
+## 📌 Pinned Projects
+- **AI Powered Exam Platform** — An AI‑enhanced platform for creating and taking exams.  
+  [Repo](https://github.com/Redietkebede/AI_Powered_Exam_Platform)
+
+- **Promptopia** — A prompt‑sharing app for AI creators and developers.  
+  [Repo](https://github.com/Redietkebede/Promptopia)
+
+- **Gym Booking System** — A full‑stack booking system for gym scheduling and memberships.  
+  [Repo](https://github.com/Redietkebede/gym_booking_system)
 
 ---
