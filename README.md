@@ -1,25 +1,39 @@
 # Hi, I'm Rediet 👋
 
-**SWE | Web Dev + AI Integration**  
-I’m an enthusiastic and passionate developer with solid, hands‑on experience designing and building modern web applications and AI‑powered products. I have a deep interest in creating scalable, maintainable web systems and bringing real‑world AI integrations into user‑focused experiences.
+💻 Software Developer | Full-Stack Web Developer | AI Integration
+
+I build scalable web applications and AI-powered platforms with a focus on clean architecture, user experience, and real-world impact.
+
+## ⚡ Tech Stack
+
+**Frontend:** React · Next.js · Tailwind CSS  
+**Backend:** Supabase · PostgreSQL  
+**Tools & Platforms:** Vercel · OpenRouter · GitHub  
 
 ---
 
-## ⚙️ Tech Stack
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Supabase, PostgreSQL  
-- **Platforms/Tools:** Vercel, OpenRouter  
+## 🚀 Featured Projects
+
+### 📄 AI Powered Exam Platform 
+An AI‑enhanced platform for creating and examoig talenats for a role in a comapny .  
+🔗  [Repo](https://github.com/Redietkebede/AI_Powered_Exam_Platform)
 
 ---
 
-## 📌 Pinned Projects
-- **AI Powered Exam Platform** — An AI‑enhanced platform for creating and taking exams.  
-  [Repo](https://github.com/Redietkebede/AI_Powered_Exam_Platform)
+### 🧠 Prepwise
+An AI-powered platform for creating and taking adaptive mock exams.  
+🔗 [Repo](https://github.com/Redietkebede/pr)
 
-- **Promptopia** — A prompt‑sharing app for AI creators and developers.  
-  [Repo](https://github.com/Redietkebede/Promptopia)
+---
 
-- **Gym Booking System** — A full‑stack booking system for gym scheduling and memberships.  
-  [Repo](https://github.com/Redietkebede/gym_booking_system)
+### ✨ Promptopia — Prompt Sharing Platform  
+A community app for AI creators to share and explore prompts.  
+🔗 [Repo](https://github.com/Redietkebede/Promptopia)
+
+---
+
+### 🏋️ Gym Booking System  
+A full-stack booking platform for gym memberships and scheduling.  
+🔗 [Repo](https://github.com/Redietkebede/gym_booking_system)
 
 ---
