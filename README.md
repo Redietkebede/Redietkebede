@@ -22,7 +22,7 @@ An AI‑enhanced platform for creating and examoig talenats for a role in a coma
 
 ### 🧠 Prepwise
 An AI-powered platform for creating and taking adaptive mock exams.  
-🔗 [Repo](https://github.com/Redietkebede/pr)
+🔗 [Repo](https://github.com/Redietkebede/Prepwise)
 
 ---
 
