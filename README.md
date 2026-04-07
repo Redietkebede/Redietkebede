@@ -2,9 +2,7 @@
 
 💻 Full-Stack Developer | AI Integration · Data Pipelines · APIs | TypeScript & Python
 
-I build production-ready web applications and AI-integrated platforms using Next.js, Supabase, and Python —
-covering everything from responsive UIs and REST APIs to ETL pipelines and LLM integrations.
-I care deeply about clean architecture, performance, and shipping products that solve real problems.
+I build production-ready web applications and AI-integrated platforms covering everything from responsive UIs and REST APIs to ETL pipelines and LLM integrations. I care deeply about clean architecture, performance, and shipping products that solve real problems.
 
 ## ⚡ Tech Stack
 
@@ -38,7 +36,7 @@ Addresses the problem of unstructured self-learning by generating personalized, 
 
 ### 📊 Financial & Economic Intelligence Dashboard
 Tackles the complexity of interpreting raw economic and market data by building a full end-to-end intelligence platform. It ingests macro indicators from FRED and market data from Alpha Vantage via a Python ETL pipeline, computes derived signals like Macro Risk Index and Currency Strength Rankings, and delivers them through a responsive Next.js dashboard — turning fragmented public datasets into clear, decision-ready financial insights.  
-🔗 [Repo](https://github.com/Redietkebede/Financial-Economic-Intelligence-Dashboard) · 🌐 [Live Demo](https://financial-economic-intelligence-das.vercel.app)
+🔗 [Repo](https://github.com/Redietkebede/Financial-Economic-Intelligence-Dashboard) · 🌐 [Live Demo](https://financial-economic-intelligence-monitoring.vercel.app/)
 
 ---
 
